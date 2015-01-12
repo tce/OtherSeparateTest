@@ -21,7 +21,7 @@ public class ICISMain
     
     public void run()
     {
-        System.out.println("Doing lots of work");
+        System.out.println("Doing tons of work");
         
     }
 }
