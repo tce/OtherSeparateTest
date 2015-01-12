@@ -6,6 +6,9 @@ package edu.fit.icis;
  * lots of stuff
  * 
  * change on apl
+ *
+ * added loads
+ *
  * Created by teskridge on 1/12/15.
  */
 public class ICISMain
