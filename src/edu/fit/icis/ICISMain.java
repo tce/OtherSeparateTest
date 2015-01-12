@@ -18,4 +18,10 @@ public class ICISMain
     public void start()
     {
     }
+    
+    public void run()
+    {
+        System.out.println("Doing lots of work");
+        
+    }
 }
